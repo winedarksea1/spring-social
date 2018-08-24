@@ -12,7 +12,7 @@ import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 
 @SpringBootApplication
 public class RestfulWebServiceApplication {
-
+	// comment
 	public static void main(String[] args) {
 		SpringApplication.run(RestfulWebServiceApplication.class, args);
 	}
